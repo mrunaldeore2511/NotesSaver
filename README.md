@@ -1,4 +1,4 @@
-# 📝 Paste Manager App
+# 📝 Notes Saver App
 
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)  
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-1.x-purple?logo=redux)  
